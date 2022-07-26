@@ -1,3 +1,5 @@
+The 1st project of Udacity Cloud DevOps nanodegree.
+
 - Bucket website endpoint
 http://my-2751-3419-6751-bucket.s3-website-us-east-1.amazonaws.com
 
